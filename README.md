@@ -1,6 +1,11 @@
 # Qualcomm AI Models Demo
 
 This is an Android application that demonstrates the use of Qualcomm AI models.
+* **
+Note: Video Classification model not added in this repository. use below link to download this model
+
+https://aihub.qualcomm.com/mobile/models/video_mae?domain=Computer+Vision&useCase=Video+Classification
+
 
 ## Project Overview
 
