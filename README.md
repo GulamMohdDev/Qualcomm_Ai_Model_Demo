@@ -70,7 +70,3 @@ The project uses the following dependencies:
 *   `targetSdk`: 36
 *   `compileSdk`: 36
 *   `JavaVersion`: 11
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
